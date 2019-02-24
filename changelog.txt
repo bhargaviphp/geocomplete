@@ -10,6 +10,9 @@ Version 1.6
 
 Version 1.5
 
+
+
+
 * Added autoselect option.
 * Add zoom_changed event support.
 * Fixed blur autocomplete.
